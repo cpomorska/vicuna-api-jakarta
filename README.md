@@ -1,2 +1,2 @@
-# vicuna-app-jakarta
-Reference Implementations - Application Layer for Jakarta Projects - Onion Architecture 
+# vicuna-api-jakarta
+Reference Implementations - API Layer for Jakarta Projects - Onion Architecture 
